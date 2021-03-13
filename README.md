@@ -1,4 +1,5 @@
-❮img src="images/gundala.png" ❯
+<img src="images/gundala.png" class="center">
+
 - 👋 Hi, I’m @githubgundala
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
