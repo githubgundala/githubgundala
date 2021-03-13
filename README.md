@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-githubgundala/githubgundala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hey 👋, This is Andicha Gundala RP
+[![Gmail Badge](https://img.shields.io/badge/-dichagundala@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dichagundala@gmail.com)](mailto:dichagundala@gmail.com) <p align='left'>Testing</p>
