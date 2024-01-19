@@ -1,8 +1,18 @@
-## Hey 👋, I'm Gundala
+
+# Whats up 👊🤟, I'm Gundala
 
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=githubgundala alt=githubgundala /> </p>
+## 🚀 About Me
+I'm backend developer based in Indonesia.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=githubgundala&show_icons=true&include_all_commits=true)](https://github.com/githubgundala/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubgundala&layout=compact)](https://github.com/githubgundala/github-readme-stats)
+- Fisit my [website](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) to learn more about me.
+- This my setup [VS Code ](https://github.com/matiassingers/awesome-readme) configuration for development optimization.
+## 🛠 Skills
+
+- Frontend : ![image](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white) ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+- Backend : ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![image](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+- Version Control : ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)![image](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
